@@ -40,6 +40,7 @@ Apa yang terjadi ? Jika terjadi error, silakan perbaiki namun tetap menggunakan 
 # Langkah 1:
 
 Ketik atau salin kode program berikut ke dalam fungsi main().
+
 ![Alt text](image-1.png)
 
 <b>Jawab:</b>
