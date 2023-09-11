@@ -66,7 +66,11 @@ Silakan coba eksekusi (Run) kode pada langkah 1 tersebut. Apa yang terjadi? Jela
 # Langkah 3:
 
 Tambahkan kode program berikut, lalu coba eksekusi (Run) kode Anda.
+
+
 ![Alt text](image-3.png)
+
+
 
 <b>Jawab:</b>
 
