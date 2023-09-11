@@ -22,11 +22,7 @@ Silakan coba eksekusi (Run) kode pada langkah 1 tersebut. Apa yang terjadi? Jela
 
 Tambahkan kode program berikut, lalu coba eksekusi (Run) kode Anda.
 
-
-
 ![Alt text](image-6.png)
-
-
 
 Apa yang terjadi ? Jika terjadi error, silakan perbaiki namun tetap menggunakan if/else.
 
@@ -47,9 +43,7 @@ Apa yang terjadi ? Jika terjadi error, silakan perbaiki namun tetap menggunakan 
 
 Ketik atau salin kode program berikut ke dalam fungsi main().
 
-
 ![Alt text](image-1.png)
-
 
 <b>Jawab:</b>
 
@@ -66,6 +60,9 @@ Silakan coba eksekusi (Run) kode pada langkah 1 tersebut. Apa yang terjadi? Jela
 # Langkah 3:
 
 Tambahkan kode program berikut, lalu coba eksekusi (Run) kode Anda.
+
+
+
 
 
 ![Alt text](image-3.png)
