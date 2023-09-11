@@ -23,7 +23,9 @@ Silakan coba eksekusi (Run) kode pada langkah 1 tersebut. Apa yang terjadi? Jela
 Tambahkan kode program berikut, lalu coba eksekusi (Run) kode Anda.
 
 
+
 ![Alt text](image-6.png)
+
 
 
 Apa yang terjadi ? Jika terjadi error, silakan perbaiki namun tetap menggunakan if/else.
@@ -59,7 +61,7 @@ Silakan coba eksekusi (Run) kode pada langkah 1 tersebut. Apa yang terjadi? Jela
 
 <b>Jawab:</b>
 
-Terdapat error karena variable counter belum dideklarasikan
+    Terdapat error karena variable counter belum dideklarasikan
 
 # Langkah 3:
 
