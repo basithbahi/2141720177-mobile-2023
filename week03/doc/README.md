@@ -21,7 +21,11 @@ Silakan coba eksekusi (Run) kode pada langkah 1 tersebut. Apa yang terjadi? Jela
 # Langkah 3:
 
 Tambahkan kode program berikut, lalu coba eksekusi (Run) kode Anda.
+
+
 ![Alt text](image-6.png)
+
+
 Apa yang terjadi ? Jika terjadi error, silakan perbaiki namun tetap menggunakan if/else.
 
 <b>Jawab:</b>
