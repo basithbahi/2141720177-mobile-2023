@@ -374,7 +374,7 @@ Apa yang terjadi ? Jika terjadi error, silakan perbaiki. Gantilah salah satu isi
 
 ![Alt text](image-48.png)
 
-5. Jelaskan dengan contoh cara membuat return multiple value di Functions!
+6. Jelaskan dengan contoh cara membuat return multiple value di Functions!
 
 <b>Jawab:</b>
 
@@ -383,5 +383,3 @@ Apa yang terjadi ? Jika terjadi error, silakan perbaiki. Gantilah salah satu isi
 ![Alt text](image-50.png)
 
     Dalam contoh ini, fungsi calculateSumAndProduct mengembalikan sebuah List yang berisi dua nilai: jumlah (sum) dan hasil kali (product). Di dalam main, kita mengakses nilai-nilai ini dengan mengindeks result.
-
-6. Kumpulkan berupa link commit repo GitHub pada tautan yang telah disediakan di grup Telegram!
