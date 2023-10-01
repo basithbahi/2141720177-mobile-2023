@@ -138,6 +138,8 @@ Lakukan hal yang sama pada file README.md mulai dari Langkah 4. Setelah berhasil
 
 <b>Jawab:</b>
 
+![Alt text](image-30.png)
+
 <b>Langkah 10:</b>
 
 Lakukan push juga untuk semua file lainnya dengan pilih Stage All Changes. Beri pesan commit "project hello_world". Maka akan tampil di repository GitHub Anda seperti berikut.
