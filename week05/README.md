@@ -190,6 +190,8 @@ Lakukan import file text_widget.dart ke main.dart, lalu ganti bagian text widget
 
 ![Alt text](assets/image-40.png)
 
+![Alt text](image.png)
+
 <b>Langkah 2: assets/image Widget</b>
 
 Buat sebuah file assets/image_widget.dart di dalam folder basic_widgets dengan isi kode berikut.
@@ -228,6 +230,8 @@ Buat file di basic_widgets > loading_cupertino.dart. Import stateless widget dar
 
 ![Alt text](assets/image-50.png)
 
+![Alt text](image-1.png)
+
 <b>Langkah 2: Floating Action Button (FAB)</b>
 
 Button widget terdapat beberapa macam pada flutter yaitu ButtonBar, DropdownButton, TextButton, FloatingActionButton, IconButton, OutlineButton, PopupMenuButton, dan ElevatedButton.
@@ -239,6 +243,8 @@ Buat file di basic_widgets > fab_widget.dart. Import stateless widget dari mater
 <b>Jawab:</b>
 
 ![Alt text](assets/image-51.png)
+
+![Alt text](image-2.png)
 
 <b>Langkah 3: Scaffold Widget</b>
 
@@ -252,6 +258,8 @@ Ubah isi kode main.dart seperti berikut.
 
 ![Alt text](assets/image-52.png)
 
+![Alt text](image-3.png)
+
 <b>Langkah 4: Dialog Widget</b>
 
 Dialog widget pada flutter memiliki dua jenis dialog yaitu AlertDialog dan SimpleDialog.
@@ -263,6 +271,8 @@ Ubah isi kode main.dart seperti berikut.
 <b>Jawab:</b>
 
 ![Alt text](assets/image-55.png)
+
+![Alt text](image-4.png)
 
 <b>Langkah 5: Input dan Selection Widget</b>
 
@@ -276,6 +286,8 @@ Contoh penggunaan TextField widget adalah sebagai berikut:
 
 ![Alt text](assets/image-54.png)
 
+![Alt text](image-5.png)
+
 <b>Langkah 6: Date and Time Pickers</b>
 
 Date and Time Pickers termasuk pada kategori input dan selection widget, berikut adalah contoh penggunaan Date and Time Pickers.
@@ -285,6 +297,8 @@ Date and Time Pickers termasuk pada kategori input dan selection widget, berikut
 <b>Jawab:</b>
 
 ![Alt text](assets/image-56.png)
+
+![Alt text](image-6.png)
 
 # <B> Pada praktikum 4 mulai dari Langkah 3 sampai 6, buatlah file widget tersendiri di folder basic_widgets, kemudian pada file main.dart cukup melakukan import widget sesuai masing-masing langkah tersebut! </B>
 

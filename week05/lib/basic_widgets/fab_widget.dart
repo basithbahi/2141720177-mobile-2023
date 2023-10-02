@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/cupertino.dart'; // Import widget dari Cupertino
 
-class MyImageWidget extends StatelessWidget {
-  const MyImageWidget({Key? key}) : super(key: key);
+class MyFab extends StatelessWidget {
+  const MyFab({Key? key}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
