@@ -7,7 +7,9 @@ class MyApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    Widget image = Expanded(child: Image.asset('jatimpark.png'));
+    Widget image = Expanded(
+        child: Image.asset('jatimpark.png',
+            width: 600, height: 240, fit: BoxFit.cover));
     Widget titleSection = Container(
       padding: const EdgeInsets.all(20),
       child: Row(
@@ -76,7 +78,7 @@ class MyApp extends StatelessWidget {
       padding: const EdgeInsets.all(15),
       child: const Text(
         'Jawa Timur Park Satu adalah Taman Hiburan dengan Tema Pameran adat budaya Indonesia yang dilengkapi dengan pembelajaran Science Center. '
-        'Abdul Basith Bahi ',
+        '\nAbdul Basith Bahi | 2141720177 ',
         softWrap: true,
       ),
     );
