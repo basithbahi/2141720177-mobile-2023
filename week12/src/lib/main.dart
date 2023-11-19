@@ -4,7 +4,7 @@ import 'package:flutter/material.dart';
 import 'package:http/http.dart';
 import 'package:http/http.dart' as http;
 import 'package:async/async.dart';
-import 'package:src/LocationScreen/geolocation.dart';
+import 'package:src/navigation_dialog.dart';
 
 void main() {
   runApp(const MyApp());
@@ -21,7 +21,7 @@ class MyApp extends StatelessWidget {
         primarySwatch: Colors.blue,
         visualDensity: VisualDensity.adaptivePlatformDensity,
       ),
-      home: LocationScreen(),
+      home: const NavigationDialogScreen(),
     );
   }
 }
@@ -50,7 +50,7 @@ class _FuturePageState extends State<FuturePage> {
   }
 
   Future returnError() async {
-    await Future.delayed(const Duration(seconds: 2));
+    await Future.delayed(const Duration(seconds: 3));
     throw Exception('Something terrible happened');
   }
 

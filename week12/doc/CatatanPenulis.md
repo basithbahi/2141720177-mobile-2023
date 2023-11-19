@@ -42,8 +42,32 @@
 
 # PRAKTIKUM 6
 
+![Alt text](image-17.png)
+
+![Alt text](image-18.png)
+
+![Alt text](image-19.png)
+
+![Alt text](image-20.png)
+
 # PRAKTIKUM 7
+
+![Alt text](image-27.png)
+
+![Alt text](image-28.png)
 
 # PRAKTIKUM 8
 
+![Alt text](image-23.png)
+
+![Alt text](image-24.png)
+
+![Alt text](image-25.png)
+
+![Alt text](image-26.png)
+
 # PRAKTIKUM 9
+
+![Alt text](image-30.png)
+
+![Alt text](image-31.png)
